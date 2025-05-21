@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dn46xw5an-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dn46xw5an-java-springboot-gitops
